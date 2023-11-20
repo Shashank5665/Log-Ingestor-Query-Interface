@@ -1,0 +1,10 @@
+.headerContainer {
+  box-shadow: 0px 0px 1px 1px grey;
+  border-radius: 5px;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  padding: 2% 2%;
+  display: flex;
+  justify-content: center;
+  margin: 2px;
+}
